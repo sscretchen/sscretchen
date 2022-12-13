@@ -1,4 +1,4 @@
-<h1>Welcome! I'm Sean</h1>
+<h1>Welcome!</h1>
 <h3>Business Analyst turned Cybersecurity Professional</h3><br>
 
 <h2>🦇 Utility Belt</h2>
