@@ -1,5 +1,5 @@
 <h1>Welcome!</h1>
-<h3>Business Analyst turned Cybersecurity Professional</h3><br>
+<h3>I'm Sean Scretchen. Business Analyst turned Cybersecurity Professional</h3><br>
 
 <h2>🦇 Utility Belt</h2>
 <h3>A list of my security tools and their use</h3>
