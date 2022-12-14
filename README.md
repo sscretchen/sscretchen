@@ -42,7 +42,7 @@
 
 ---
 
-<a href="https://github.com/sscretchen/pycat" target="_blank">Pycat - Network Utility Tool</a>
+<a href="#">Pycat - Network Utility Tool</a> 
 
 <h3>🏁 Finished Projects</h3>
 
