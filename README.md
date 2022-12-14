@@ -2,7 +2,7 @@
 <h3>I'm Sean Scretchen. Thank you for viewing my portfolio</h3><br>
 
 <h2>🦇 Utility Belt</h2>
-<h3>A list of my security tools and technology I use</h3>
+<h3>A list of the security tools and technology I use</h3>
 <table class="ws-table-all">
   <tbody><tr>
     <th>Security Tool</th>
