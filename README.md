@@ -36,6 +36,10 @@
 
 <h2>🛠 Currently Working On...</h2>
 
+<ul>
+  <li><a href="https://github.com/sscretchen/pycat" target="_blank">Pycat - Network Utility Tool</a></li>
+</ul>
+
 <h3>🏁 Finished Projects</h3>
 
 <h2>📜 Certifications</h2>
