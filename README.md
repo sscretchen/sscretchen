@@ -2,7 +2,7 @@
 <h3>I'm Sean Scretchen. Business Analyst turned Cybersecurity Professional</h3><br>
 
 <h2>🦇 Utility Belt</h2>
-<h3>A list of my security tools and their use</h3>
+<h3>A list of my security tools and technology I use</h3>
 <table class="ws-table-all">
   <tbody><tr>
     <th>Security Tool</th>
@@ -14,23 +14,28 @@
   </tr>
   <tr>
     <td>SecurityOnion</td>
-    <td>SOAR. I could not find a tool reasonably priced so this was a great tool. This acts as an HIDS for my Windows VM, and integrates directly with Wazuh. Keeping things uniform  </td>
+    <td>SOAR. I could not find a tool reasonably priced so this was a great tool. This acts as an HIDS for my Windows VM, and integrates directly with Wazuh. Keeping things tightly integrated.</td>
   </tr>
+  <tr>
+    <td>Suricata</td>
+    <td>I dabbled in Snort and Zeek, but I found Suricata to be the easiest to implement, and configure for ingestion to Wazuh. It also acts as an IPS, which will help with future incident simulations.</td>
+  </tr>    
   <tr>
     <td>TheHive</td>
     <td>SOC operations is a big interest of mine and this tool acts as my IR platform.</td>
   </tr>
   <tr>
     <td>TRAM</td>
-    <td>Threat Research. Sticking to established framworks like ATT&CK will keep me honest with the most up to date information in intellegence. I use this for parsing information from security articles and mapping key words/phrases to ATT&CK techniques</td>
+    <td>Threat Research. Sticking to established framworks like ATT&CK will keep me honest with the most up to date information in intellegence. I use this for parsing information from security articles and mapping key words/phrases to ATT&CK techniques.</td>
   </tr>
   <tr>
     <td>VS Code</td>
-    <td>IDE of choice. VS is helpful because of its built in tools but specifically the ATT&CK extension (VSCode ATT&CK). That extension has a feature that lets you create MD files with direct links to MITRE ATT&CK website and their extensive knowledge base</td>
+    <td>IDE of choice. VS is helpful because of its built in tools but specifically the ATT&CK extension (VSCode ATT&CK). That extension has a feature that lets you create MD files with direct links to MITRE ATT&CK website and their extensive knowledge base.</td>
   </tr>
 </tbody></table>
 
 <h2>🛠 Currently Working On...</h2>
+
 <h3>🏁 Finished Projects</h3>
 
 <h2>📜 Certifications</h2>
