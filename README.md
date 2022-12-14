@@ -1,8 +1,12 @@
 <h1>Welcome!</h1>
 <h3>I'm Sean Scretchen. Thank you for viewing my portfolio</h3><br>
 
-<h2>🦇 Utility Belt</h2>
+
+<h3>🦇 Utility Belt</h3>
 <h3>A list of the security tools and technology I use</h3>
+
+---
+
 <table class="ws-table-all">
   <tbody><tr>
     <th>Security Tool</th>
@@ -34,15 +38,19 @@
   </tr>
 </tbody></table>
 
-<h2>🛠 Currently Working On...</h2>
+<h3>🛠 Currently Working On...</h3>
 
-<ul>
-  <li><a href="https://github.com/sscretchen/pycat" target="_blank">Pycat - Network Utility Tool</a></li>
-</ul>
+---
+
+<a href="https://github.com/sscretchen/pycat" target="_blank">Pycat - Network Utility Tool</a>
 
 <h3>🏁 Finished Projects</h3>
 
-<h2>📜 Certifications</h2>
+---
+
+<h3>📜 Certifications</h3>
+
+---
 
 <ul>
   <li><a href="https://www.credly.com/badges/455482b7-7bc8-438f-8775-69ce333caf83/public_url" target="_blank">CompTIA Security+ ce Certification</li>
@@ -53,12 +61,17 @@
 </ul>
 
 
-<h2>📚 What I'm Learning...</h2>
+<h3>📚 What I'm Learning...</h3>
+
+---
+
 <a href="https://www.packtpub.com/product/network-protocols-for-security-professionals/9781789953480" target="_blank">Network Protocols for Security Professionals
 </a>
 <p>I like to keep my fundamentals sharp. This is a good book about common network protocols, their vulnerabilities and how to defend against them.</p>
 
-<h2>🤳 Lets Connect!</h2>
+<h3>🤳 Lets Connect!</h3>
+
+---
 
 [<img align="left" alt="SeanScretchen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
