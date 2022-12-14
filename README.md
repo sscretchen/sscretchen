@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td>TRAM</td>
-    <td>Threat Research. Sticking to established framworks like ATT&CK will keep me honest with the most up to date information in intellegence. I use this for parsing information from security articles and mapping key words/phrases to ATT&CK techniques.</td>
+    <td>Threat Research. Sticking to established framworks like ATT&CK will keep me honest with the most up to date information in intellegence. I use this for parsing information from CTI reports and mapping key words/phrases to ATT&CK techniques to identify IOA.</td>
   </tr>
   <tr>
     <td>VS Code</td>
