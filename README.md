@@ -9,7 +9,7 @@
 
 <table class="ws-table-all">
   <tbody><tr>
-    <th>Security Tool</th>
+    <th></th>
     <th>Use Cases</th>
   </tr>
   <tr>
