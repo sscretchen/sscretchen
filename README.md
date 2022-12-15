@@ -1,5 +1,8 @@
 <h1>Welcome!</h1>
-<h3>I'm Sean Scretchen. Thank you for viewing my portfolio</h3><br>
+<h3>I'm Sean Scretchen. Thank you for viewing my portfolio</h3>
+
+> A place to highlight my projects, upskilling and overall commitment to improving as a Cybersecurity professional
+<br>
 
 
 <h3>🦇 Utility Belt</h3>
@@ -39,6 +42,8 @@
 </tbody></table>
 
 <h3>🛠 Currently Working On...</h3>
+
+- File Integrity Monitoring Solution using Powershell
 
 --- 
 
