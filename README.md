@@ -1,7 +1,7 @@
 <h1>Welcome!</h1>
 <h3>I'm Sean Scretchen. Thank you for viewing my portfolio</h3>
 
-> A place to highlight my projects and overall commitment to improving as a Cybersecurity professional
+> A place to highlight my projects and commitment to improving as a Cybersecurity professional
 <br>
 
 
