@@ -40,8 +40,6 @@
 
 <h3>🛠 Currently Working On...</h3>
 
-<a href="https://github.com/sscretchen/pythonfim" target="_blank">Python Based FIM</a>
-
 --- 
 
 <h3>🏁 Finished Projects</h3>
