@@ -51,7 +51,7 @@
 
 <h3>🛠 Currently Working On...</h3>
 
-- File Integrity Monitoring Solution using Powershell
+- <a href="https://github.com/sscretchen/fimsuite">File Integrity Monitoring Suite</a>
 
 --- 
 
