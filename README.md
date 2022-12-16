@@ -1,5 +1,4 @@
 <a name="readme-top"></a>
-
 <h1>Welcome!</h1>
 <h3>I'm Sean Scretchen. Thank you for viewing my portfolio</h3>
 
@@ -102,7 +101,6 @@
 [<img align="left" alt="SeanScretchen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/sean-scretchen
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
