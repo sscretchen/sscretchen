@@ -39,6 +39,10 @@
     <td>VS Code</td>
     <td>IDE of choice. VS is helpful because of its built in tools but specifically the ATT&CK extension (VSCode ATT&CK). That extension has a feature that lets you create MD files with direct links to MITRE ATT&CK website and their extensive knowledge base. VS also supports YARA</td>
   </tr>
+  <tr>
+    <td>PeStudio</td>
+    <td>Take a peek into files for potential malware. I usually pull them into a VM environment to run this analysis</td>
+  </tr>  
 </tbody></table>
 
 <h3>🛠 Currently Working On...</h3>
