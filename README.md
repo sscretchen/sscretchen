@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td>VS Code</td>
-    <td>IDE of choice. VS is helpful because of its built in tools but specifically the ATT&CK extension (VSCode ATT&CK). That extension has a feature that lets you create MD files with direct links to MITRE ATT&CK website and their extensive knowledge base.</td>
+    <td>IDE of choice. VS is helpful because of its built in tools but specifically the ATT&CK extension (VSCode ATT&CK). That extension has a feature that lets you create MD files with direct links to MITRE ATT&CK website and their extensive knowledge base. VS also supports YARA</td>
   </tr>
 </tbody></table>
 
