@@ -1,12 +1,25 @@
+<a name="readme-top"></a>
 <h1>Welcome!</h1>
 <h3>I'm Sean Scretchen. Thank you for viewing my portfolio</h3>
 
 > A place to highlight my projects and commitment to improving as a Cybersecurity professional
-<br>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#utility-belt">Utility Belt</a></li>
+    <li><a href="#currently-working-on">Currently Working On</a></li>
+    <li><a href="#finished-projects">Finished Projects</a></li>
+    <li><a href="#certifications">Certifications</a></li>
+    <li><a href="#currently-learning">Currently Learning</a></li>
+    <li><a href="#lets-connect">Lets Connect</a></li>
+</ol>
+</details>
+<!-- END TABLE OF CONTENTS -->
 
-<h3>🦇 Utility Belt</h3>
-<h3>A list of the security tools and technology I use</h3>
+### Utility Belt
+#### A list of the security tools and technology I use
 
 ---
 
@@ -49,17 +62,18 @@
   </tr>  
 </tbody></table>
 
-<h3>🛠 Currently Working On...</h3>
-
-- <a href="https://github.com/sscretchen/fimsuite">File Integrity Monitoring Suite</a>
-
---- 
-
-<h3>🏁 Finished Projects</h3>
+### Currently Working On
 
 ---
 
-<h3>📜 Certifications</h3>
+- <a href="https://github.com/sscretchen/fimsuite">File Integrity Monitoring Suite</a>
+
+
+### Finished Projects
+
+---
+
+### Certifications
 
 ---
 
@@ -72,7 +86,7 @@
 </ul>
 
 
-<h3>📚 What I'm Learning...</h3>
+### Currently Learning
 
 ---
 
@@ -80,11 +94,14 @@
 </a>
 <p>I like to keep my fundamentals sharp. This is a good book about common network protocols, their vulnerabilities and how to defend against them.</p>
 
-<h3>🤳 Lets Connect!</h3>
+### Lets Connect
 
 ---
 
 [<img align="left" alt="SeanScretchen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/sean-scretchen
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
