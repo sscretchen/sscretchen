@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td>CyberChef</td>
-    <td>A very fun tool for all sorts of cyber-shenanigans. Encoding and encryption, calculating hashes and many other useful activites. I enjoy this tool because it runs in the browser. No compicated setup or builds.</td>
+    <td>A very fun tool for all sorts of cyber-shenanigans. Encoding and encryption, calculating hashes and many other useful activites. I enjoy this tool because it runs in the browser. No complicated setup or builds.</td>
   </tr>  
 </tbody></table>
 
