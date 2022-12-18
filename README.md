@@ -66,7 +66,7 @@
 
 ---
 
-- <a href="https://github.com/sscretchen/fimsuite">File Integrity Monitoring Suite</a>
+- <a href="https://github.com/sscretchen/fimsuite">File Integrity Monitoring Tools</a>
 
 
 ### Finished Projects
