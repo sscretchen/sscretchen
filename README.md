@@ -54,7 +54,7 @@
   </tr>
   <tr>
     <td>VS Code</td>
-    <td>IDE of choice. VS is helpful because of its built in tools but specifically the ATT&CK extension (VSCode ATT&CK). That extension has a feature that lets you create MD files with direct links to MITRE ATT&CK website and their extensive knowledge base. VS also supports YARA</td>
+    <td>VS Code is helpful because of its built in ATT&CK extension (VSCode ATT&CK). This uses IntelliSense support for MITRE ATT&CK®. TTP links, searches, autocompletes various ATT&CK IDs and links directly to the site for specifics. I can create very useful Threat Intelligence reports with this</td>
   </tr>
   <tr>
     <td>PeStudio</td>
@@ -96,7 +96,7 @@
 
 <a href="https://www.packtpub.com/product/network-protocols-for-security-professionals/9781789953480" target="_blank">Network Protocols for Security Professionals
 </a>
-<p>I like to keep my fundamentals sharp. This is a good book about common network protocols, their vulnerabilities and how to defend against them.</p>
+<p>This is a good book about common network protocols, their vulnerabilities and how to defend against them.</p>
 
 ### Lets Connect
 
