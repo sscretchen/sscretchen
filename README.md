@@ -37,8 +37,12 @@
     <td>SOAR. I could not find a tool reasonably priced so this was a great tool. This acts as an HIDS for my Windows VM, and integrates directly with Wazuh. Keeping things tightly integrated.</td>
   </tr>
   <tr>
+    <td>pfSense</td>
+    <td>Using as a firewall. I felt this would be helpful in segmenting devices and allow for the monitoring of diverse network traffic</td>
+  </tr>    
+  <tr>
     <td>Suricata</td>
-    <td>I dabbled in Snort and Zeek, but I found Suricata to be the easiest to implement, and configure for ingestion to Wazuh. It also acts as an IPS, which will help with future incident simulations.</td>
+    <td>Out of Suricata, Snort and Zeek, I found Suricata to be the easiest to implement, and configure for ingestion to Wazuh. It also acts as an IPS, which will help with future incident simulations.</td>
   </tr>    
   <tr>
     <td>TheHive</td>
