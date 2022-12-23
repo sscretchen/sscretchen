@@ -25,7 +25,7 @@
 
 <table class="ws-table-all">
   <tbody><tr>
-    <th></th>
+    <th>Tools</th>
     <th>Use Cases</th>
   </tr>
   <tr>
