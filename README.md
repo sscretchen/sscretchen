@@ -30,11 +30,11 @@
   </tr>
   <tr>
     <td>Wazuh</td>
-    <td>SIEM. This was an easy solution that integrates various OS platforms. I use this to monitor an Ubuntu, RHEL, and windows machine for various testing.</td>
+    <td>This is the flagship tool I use. I enjoy working in commercial tools like Azure and AWS but I can't justify paying for most of the features. I use this to monitor almost every OS I work out of to populate this portfolio with content. VMs that run RHEL, Ubuntu, Debian and Windows</td>
   </tr>
   <tr>
     <td>SecurityOnion</td>
-    <td>SOAR. I could not find a tool reasonably priced so this was a great tool. This acts as an HIDS for my Windows VM, and integrates directly with Wazuh. Keeping things tightly integrated.</td>
+    <td>This acts as a HIDS for my Windows VM, and integrates directly with Wazuh</td>
   </tr>
   <tr>
     <td>pfSense</td>
@@ -46,11 +46,11 @@
   </tr>    
   <tr>
     <td>TheHive</td>
-    <td>SOC operations is a big interest of mine and this tool acts as my IR platform.</td>
+    <td>SOC operations is an interest of mine and this tool acts as my IR platform</td>
   </tr>
   <tr>
     <td>TRAM</td>
-    <td>Threat Research. Sticking to established framworks like ATT&CK will keep me honest with the most up to date information in intellegence. I use this for parsing information from CTI reports and mapping key words/phrases to ATT&CK techniques to identify IOA.</td>
+    <td>Threat Research. Sticking to established framworks like ATT&CK will keep me honest with the most up to date information in intellegence. I use this for parsing information from CTI reports and mapping key words/phrases to ATT&CK techniques to identify IOA</td>
   </tr>
   <tr>
     <td>VS Code</td>
@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td>CyberChef</td>
-    <td>A very fun tool for all sorts of cyber-shenanigans. Encoding and encryption, calculating hashes and many other useful activites. I enjoy this tool because it runs in the browser. No complicated setup or builds.</td>
+    <td>A very fun tool for all sorts of cyber-shenanigans. Encoding and encryption, calculating hashes and many other useful activites. I enjoy this tool because it runs in the browser. No complicated setup or builds</td>
   </tr>  
 </tbody></table>
 
