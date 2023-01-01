@@ -70,12 +70,11 @@
 
 ---
 
-- <a href="https://github.com/sscretchen/fimsuite">File Integrity Monitoring Tools</a>
-
-
 ### Finished Projects
 
 ---
+
+- <a href="https://github.com/sscretchen/fimsuite">File Integrity Monitoring Tools</a>
 
 ### Certifications
 
