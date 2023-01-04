@@ -58,7 +58,7 @@
   </tr>
   <tr>
     <td>PeStudio</td>
-    <td>Take a peek into files for potential malware. I usually pull them into a VM environment to run this analysis</td>
+    <td>Used to look for potential malware. I pull these files into a seperate VM to run this analysis</td>
   </tr>
   <tr>
     <td>CyberChef</td>
