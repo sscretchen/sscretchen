@@ -46,7 +46,7 @@
   </tr>    
   <tr>
     <td>TheHive</td>
-    <td>SOC operations is an interest of mine and this tool acts as my IR platform</td>
+    <td>SOC operations is a domain I enjoy. This tool acts as my Incident Response platform</td>
   </tr>
   <tr>
     <td>TRAM</td>
