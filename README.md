@@ -70,13 +70,12 @@
 
 ---
 
-- <a href="https://github.com/sscretchen/ctireports">CTI Reports</a>
-
 ### Finished Projects
 
 ---
 
-- <a href="https://github.com/sscretchen/fimsuite">File Integrity Monitoring Tools</a>
+1. <a href="https://github.com/sscretchen/fimsuite">File Integrity Monitoring Tools</a>
+2.  <a href="https://github.com/sscretchen/ctireports">CTI Reports</a>
 
 ### Certifications
 
