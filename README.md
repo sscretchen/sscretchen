@@ -33,10 +33,6 @@
     <td>This is the flagship tool I use. I enjoy working in commercial tools like Azure and AWS but I can't justify paying for most of the features. I use this to monitor almost every OS I work out of to populate this portfolio with content. VMs that run RHEL, Ubuntu, Debian and Windows</td>
   </tr>
   <tr>
-    <td>SecurityOnion</td>
-    <td>This acts as a HIDS for my Windows VM, and integrates directly with Wazuh</td>
-  </tr>
-  <tr>
     <td>pfSense</td>
     <td>Using as a firewall. I felt this would be helpful in segmenting devices and allow for the monitoring of diverse network traffic</td>
   </tr>    
