@@ -30,11 +30,11 @@
   </tr>
   <tr>
     <td>Wazuh</td>
-    <td>This is the flagship tool I use. I enjoy working in commercial tools like Azure and AWS but I can't justify paying for most of the features. I use this to monitor almost every OS I work out of to populate this portfolio with content. VMs that run RHEL, Ubuntu, Debian and Windows</td>
+    <td>This is the flagship tool I use. I enjoy working in commercial tools like Azure and AWS but I can't justify paying for most of the features. I use this to monitor almost every OS I work out of to populate this portfolio with content. VMs that run RHEL, Ubuntu, Debian and Windows.</td>
   </tr>
   <tr>
     <td>pfSense</td>
-    <td>Using as a firewall. I felt this would be helpful in segmenting devices and allow for the monitoring of diverse network traffic</td>
+    <td>Using as a firewall. I felt this would be helpful in segmenting devices and allow for the monitoring of diverse network traffic.</td>
   </tr>    
   <tr>
     <td>Suricata</td>
@@ -42,29 +42,31 @@
   </tr>    
   <tr>
     <td>TheHive</td>
-    <td>SOC operations is a domain I enjoy. This tool acts as my Incident Response platform</td>
+    <td>SOC operations is a top domain for me. I use this to demonstrate my workflow handling security incidents.</td>
   </tr>
   <tr>
     <td>TRAM</td>
-    <td>Threat Research. Sticking to established framworks like ATT&CK will keep me honest with the most up to date information in intellegence. I use this for parsing information from CTI reports and mapping key words/phrases to ATT&CK techniques to identify IOA</td>
+    <td>Threat Research. Sticking to established framworks like ATT&CK will keep me honest with the most up to date information in intellegence. I use this for parsing information from CTI reports and mapping key words/phrases to ATT&CK techniques to identify IOA.</td>
   </tr>
   <tr>
     <td>VS Code</td>
-    <td>VS Code is helpful because of its built in ATT&CK extension (VSCode ATT&CK). This uses IntelliSense support for MITRE ATT&CK®. TTP links, searches, autocompletes various ATT&CK IDs and links directly to the site for specifics. I can create very useful Threat Intelligence reports with this</td>
+    <td>VS Code is helpful because of its built in ATT&CK extension (VSCode ATT&CK). This uses IntelliSense support for MITRE ATT&CK®. TTP links, searches, autocompletes various ATT&CK IDs and links directly to the site for specifics. I can create very useful Threat Intelligence reports with this.</td>
   </tr>
   <tr>
     <td>PeStudio</td>
-    <td>Used to look for potential malware. I pull these files into a seperate VM to run this analysis</td>
+    <td>Used to look for potential malware. I pull these files into a seperate VM to run this analysis.</td>
   </tr>
   <tr>
     <td>CyberChef</td>
-    <td>A very fun tool for all sorts of cyber-shenanigans. Encoding and encryption, calculating hashes and many other useful activites. I enjoy this tool because it runs in the browser. No complicated setup or builds</td>
+    <td>A very fun tool for all sorts of cyber-shenanigans. Encoding and encryption, calculating hashes and many other useful activites. I enjoy this tool because it runs in the browser. No complicated setup or builds.</td>
   </tr>  
 </tbody></table>
 
 ### Currently Working On
 
 ---
+
+1. <a href="">TheHive - My Security Incident Response Workflow</a>
 
 ### Finished Projects
 
