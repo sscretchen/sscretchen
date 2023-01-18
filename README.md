@@ -66,7 +66,7 @@
 
 ---
 
-<a href="#">TheHive - My Security Incident Response Workflow</a>
+<a href="https://github.com/sscretchen/thehive-workflow">TheHive - My Security Incident Response Workflow</a>
 
 ### Finished Projects
 
