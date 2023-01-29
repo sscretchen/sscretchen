@@ -92,9 +92,9 @@
 
 ---
 
-<a href="https://www.packtpub.com/product/network-protocols-for-security-professionals/9781789953480" target="_blank">Network Protocols for Security Professionals
+<a href="https://a.co/d/2IUC4BN" target="_blank">Mastering Python for Networking and Security
 </a>
-<p>This is a good book about common network protocols, their vulnerabilities and how to defend against them.</p>
+<p>I wanted to use my favorite programming language to learn more about Networking and potentially build my own tools using Python</p>
 
 ### Lets Connect
 
