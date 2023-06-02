@@ -66,8 +66,6 @@
 
 ---
 
-<a href="https://github.com/sscretchen/thehive-workflow">TheHive - My Security Incident Response Workflow</a>
-
 <a href="https://github.com/sscretchen/pycat">Pycat - A recreation of netcat using Python</a>
 
 ### Finished Projects
@@ -94,9 +92,9 @@
 
 ---
 
-<a href="https://a.co/d/2IUC4BN" target="_blank">Mastering Python for Networking and Security
+<a href="https://a.co/d/2IUC4BN](https://nostarch.com/cyberjutsu" target="_blank">Cyberjutsu
 </a>
-<p>I wanted to use my favorite programming language to learn more about Networking and potentially build my own tools using Python</p>
+<p>A very interesting read about how to apply old traditions in a modern way to protect networks</p>
 
 ### Lets Connect
 
