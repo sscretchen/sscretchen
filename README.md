@@ -92,7 +92,7 @@
 
 ---
 
-<a href="https://a.co/d/2IUC4BN](https://nostarch.com/cyberjutsu" target="_blank">Cyberjutsu
+<a href="https://nostarch.com/cyberjutsu" target="_blank">Cyberjutsu
 </a>
 <p>A very interesting read about how to apply old traditions in a modern way to protect networks</p>
 
