@@ -64,20 +64,14 @@
 
 ### Currently Working On
 
----
-
 Networking tools using Python
 
 ### Finished Projects
-
----
 
 1. <a href="https://github.com/sscretchen/fimsuite">File Integrity Monitoring Tools</a>
 2.  <a href="https://github.com/sscretchen/ctireports">CTI Reports</a>
 
 ### Certifications
-
----
 
 <ul>
   <li><a href="https://www.credly.com/badges/455482b7-7bc8-438f-8775-69ce333caf83/public_url" target="_blank">CompTIA Security+ ce Certification</li>
@@ -90,15 +84,11 @@ Networking tools using Python
 
 ### Current Read
 
----
-
 <a href="https://nostarch.com/cyberjutsu" target="_blank">Cyberjutsu
 </a>
 <p>A very interesting read about how to apply old traditions in a modern way to protect networks</p>
 
 ### Lets Connect
-
----
 
 [<img align="left" alt="SeanScretchen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
