@@ -66,7 +66,7 @@
 
 ---
 
-<a href="https://github.com/sscretchen/pycat">Pycat - A recreation of netcat using Python</a>
+Networking tools using Python
 
 ### Finished Projects
 
@@ -88,7 +88,7 @@
 </ul>
 
 
-### Currently Learning
+### Current Read
 
 ---
 
