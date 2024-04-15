@@ -4,6 +4,9 @@
 
 > A place to highlight my projects and commitment to improving as a Cybersecurity professional
 
+> [!IMPORTANT]
+> I am temporarily putting projects on hold to focus on a recent career opportunity and finishing my Bachelors program. My goal is to start development again by the EOY.
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
