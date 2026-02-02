@@ -5,7 +5,7 @@
 > A place to highlight my projects and commitment to improving as a Cybersecurity professional
 
 > [!IMPORTANT]
-> I am temporarily putting projects on hold to focus on a business opportunity opportunity.This Github will be transformed into an architectural overview of my new platform.
+> I am temporarily putting projects on hold to focus on a business opportunity.This Github will be transformed into an architectural overview with these details.
 
 <!-- TABLE OF CONTENTS -->
 <details>
